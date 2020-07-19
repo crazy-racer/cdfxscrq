@@ -12,3 +12,5 @@
 - [PornHub Proxy](https://pornhubproxy.ga) Written by someone else, configured to work by me.
 - [BRC Payment Portal](https://portal.brcgroup.org)
 - [JioSaavn Downloader](https://jiosaavn.ga)
+
+![Bhadoo's Github Stats](https://github-readme-stats.vercel.app/api?username=ParveenBhadooOfficial&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
