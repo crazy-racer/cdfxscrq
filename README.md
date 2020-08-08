@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+### About 🙋🏻‍♂️
+```python
+name = "AK25"
+who_i_am = ['Developer','Coder']
+age = 25
+religion = "🇮🇳"
+```
+
 - 🔭 I’m currently working Freelance
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on Python and NodeJS Projects
@@ -11,7 +19,6 @@
 - [JioSaavn Downloader](https://jiosaavn.ga)
 
 ![cdfxscrq's Github Stats](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcdfxscrq%2Fhit-counter)
-
 <p>
 - <a href="https://telegram.dog/Akshayan1">
     <img align="left" alt="SuryaKumar Telegram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/telegram.svg" />
