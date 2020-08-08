@@ -5,10 +5,22 @@
 - 👯 I’m looking to collaborate on Python and NodeJS Projects
 - 📫 How to reach me: Imstream@telegmail.com
 - Published Projects by Me are below
+- <p>
+- <a href="https://telegram.dog/Akshayan1">
+    <img align="left" alt="SuryaKumar Telegram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/telegram.svg" />
+  </a>
 - [Telegram Proxy](https://github.com/TelegramWeb/web.telegram.org)
 - [ThePirateBay Proxy](https://thepiratebay.ind.in)
 - [PornHub Proxy](https://pornhubproxy.ga) Written by someone else, configured to work by me.
-- [BRC Payment Portal](https://portal.brcgroup.org)
 - [JioSaavn Downloader](https://jiosaavn.ga)
 
-![cdfxscrq's Github Stats](https://github-readme-stats.vercel.app/api?username=cdfxscrq&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![cdfxscrq's Github Stats](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcdfxscrq%2Fhit-counter)
+
+### Skills 👨‍💻
+
+<img align="left" alt="Python" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/python.svg" />
+<img align="left" alt="GitHub" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/github.svg" />
+<img align="left" alt="Android" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/android.svg" />
+<img align="left" alt="HTML" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/html5.svg" />
+</br>
+</br>
